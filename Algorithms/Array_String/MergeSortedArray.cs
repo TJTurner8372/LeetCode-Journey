@@ -12,7 +12,7 @@ namespace Algorithms.Array_String
 
             // index of nums1. this should be the largest number in the array
             int p1 = m - 1;
-            // index of num2. this should be the larges number in the array
+            // index of num2. this should be the largest number in the array
             int p2 = n - 1;
             // last index of the nums1 array where we will be putting the numbers into
             int pMerge = n + m - 1;
