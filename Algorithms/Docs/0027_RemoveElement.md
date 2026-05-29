@@ -6,4 +6,4 @@
 | **Time** | **$O(n)$**<br>We iterate through the array of length $n$ exactly one time. |
 | **Space** | **$O(1)$**<br>The array is modified in-place without allocating any additional data structures. |
 | **C# Notes** | Array mutation in C# is fast, but be careful with `IndexOutOfRangeException`. Using the counter variable as an index allows for clean, in-place overwrites without complex shifting logic. |
-| **Pitfall** | Confusing the index with the value at that index. Always ensure `if` conditions are evaluating `nums[pointer]`, not just the `pointer` integer itself. |
+| **Pitfall** | Confusing the index with the value a am I losing my mind? Put the fucking text in this chat so it looks like this: t that index. Always ensure `if` conditions are evaluating `nums[pointer]`, not just the `pointer` integer itself. |
